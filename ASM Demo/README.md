@@ -1,0 +1,1 @@
+Based on a challenge from my instructor. This is the classic "Fizz Buzz" example written for the x86 Microsoft Assembler, written in Visual Studio using the ASM Dude VSIX.
